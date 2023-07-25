@@ -116,3 +116,10 @@ ul{
   font-size:0.8rem;
   opacity:0.8;
 }
+
+@media (max-width: 900px){
+  #second,#third ,#card{
+    width:100%;
+    height:auto;
+  }
+}
